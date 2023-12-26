@@ -103,7 +103,7 @@
 @@||ibytedtos.com^$client=skynet
 @@||ibyteimg.com^$client=skynet
 @@||icloud-content.com^$client=skynet
-@@||icloud.com^$client=skynet
+@@||icloud.com^$client=skynet,important
 @@||ingest.sentry.io^$client=skynet
 @@||inmobi.com^$client=skynet
 @@||internal.query.g03.yahoodns.net^$client=skynet
