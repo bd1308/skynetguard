@@ -176,3 +176,5 @@
 @@||zdassets.com^$client=skynet
 @@||zendesk.com^$client=skynet
 @@||zimperium.com^$client=skynet
+# Try block all other than this
+||*.*^$client=skynet
