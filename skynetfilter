@@ -178,5 +178,6 @@
 @@||zimperium.com^$client=skynet,important
 @@||wizardingworld.com^$client=skynet,important
 @@||bitdefender.net^$client=skynet,important
+@@||akadns.net^$client=skynet,important
 # Try block all other than this
 ||*.*^$client=skynet
