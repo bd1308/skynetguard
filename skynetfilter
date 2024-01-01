@@ -179,6 +179,6 @@
 @@||wizardingworld.com^$client=skynet,important
 @@||bitdefender.net^$client=skynet,important
 @@||akadns.net^$client=skynet,important
-@@||reactornet.net^$?skynet,important
+@@||reactornet.net^$?client=skynet,important
 # Try block all other than this
 ||*.*^$client=skynet
