@@ -69,8 +69,11 @@
 @@||digicert.com^$client=skynet,important
 @@||doubleclick.net^$client=skynet,important
 @@||duolingo.com^$client=skynet,important
+@@||ea.com^$client=skynet,important
+@@||ea.com^$client=skynet,important
 @@||edgeprod.cldlb.jpmchase.com^$client=skynet,important
 @@||entrust.net^$client=skynet,important
+@@||epicgames.dev^$client=skynet,important
 @@||etonline.com^$client=skynet,important
 @@||etsy.com^$client=skynet,important
 @@||etsystatic.com^$client=skynet,important
@@ -129,6 +132,7 @@
 @@||ntp.org^$client=skynet,important
 @@||object-storage.v.aaplimg.com^$client=skynet,important
 @@||ogury.co^$client=skynet,important
+@@||origin.com^$client=skynet,important
 @@||pki.goog^$client=skynet,important
 @@||popsugar-assets.com^$client=skynet,important
 @@||presage.io^$client=skynet,important
