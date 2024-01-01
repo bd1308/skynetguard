@@ -74,6 +74,7 @@
 @@||edgeprod.cldlb.jpmchase.com^$client=skynet,important
 @@||entrust.net^$client=skynet,important
 @@||epicgames.dev^$client=skynet,important
+@@||epicgames.com^$client=skynet,important
 @@||etonline.com^$client=skynet,important
 @@||etsy.com^$client=skynet,important
 @@||etsystatic.com^$client=skynet,important
@@ -106,7 +107,8 @@
 @@||ibytedtos.com^$client=skynet,important
 @@||ibyteimg.com^$client=skynet,important
 @@||icloud-content.com^$client=skynet,important
-@@||icloud.com^$client=skynet,important,important
+@@||icloud.com^$client=skynet,important
+@@||innersloth.com^$client=skynet,important
 @@||ingest.sentry.io^$client=skynet,important
 @@||inmobi.com^$client=skynet,important
 @@||internal.query.g03.yahoodns.net^$client=skynet,important
