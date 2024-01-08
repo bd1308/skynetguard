@@ -55,8 +55,8 @@
 @@||chase.com^$client=skynet,important
 @@||chasecdn.com^$client=skynet,important
 @@||cloud.unity3d.com^$client=skynet,important
-# cloudflare, necessary evil,important
-@@||cloudfront.net^$client=skynet ,important
+# cloudfront, necessary evil,important
+@@||cloudfront.net^$client=skynet,important
 @@||cm.publishers.advertising.a2z.com^$client=skynet,important
 @@||comodoca.com^$client=skynet,important
 @@||cloudflare.net^$client=skynet ,important
