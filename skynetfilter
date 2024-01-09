@@ -38,6 +38,8 @@
 @@||appsflyer.com^$client=skynet,important
 @@||appsflyersdk.com^$client=skynet,important
 @@||arkoselabs.com^$client=skynet,important
+#bamgrid=disney+
+@@||bamgrid.com^$client=skynet,important
 @@||cloudflare.net^$client=skynet,important
 @@||branch.io^$client=skynet,important
 @@||bugsnag.com^$client=skynet,important
@@ -68,6 +70,7 @@
 ||dailymail.co.uk^$client=skynet,important
 @@||demdex.net^$client=skynet,important
 @@||digicert.com^$client=skynet,important
+@@||disney-plus.net^$client=skynet,important
 @@||doubleclick.net^$client=skynet,important
 @@||duolingo.com^$client=skynet,important
 @@||ea.com^$client=skynet,important
@@ -155,6 +158,7 @@
 @@||s.llnwi.net^$client=skynet,important
 @@||scdn.co^$client=skynet,important
 @@||scorecardresearch.com^$client=skynet,important
+@@||disney.my.sentry.io^$client=skynet,important #disney
 @@||shared.global.fastly.net^$client=skynet,important
 @@||smoot.g.aaplimg.com^$client=skynet,important
 @@||googlevideo.com^$client=skynet,important
