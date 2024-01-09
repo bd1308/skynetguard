@@ -72,6 +72,7 @@
 @@||digicert.com^$client=skynet,important
 @@||disney-plus.net^$client=skynet,important
 @@||doubleclick.net^$client=skynet,important
+@@||dssott.com^$client=skynet,important
 @@||duolingo.com^$client=skynet,important
 @@||ea.com^$client=skynet,important
 @@||ea.com^$client=skynet,important
@@ -158,7 +159,7 @@
 @@||s.llnwi.net^$client=skynet,important
 @@||scdn.co^$client=skynet,important
 @@||scorecardresearch.com^$client=skynet,important
-@@||disney.my.sentry.io^$client=skynet,important #disney
+@@||disney.my.sentry.io^$client=skynet,important
 @@||shared.global.fastly.net^$client=skynet,important
 @@||smoot.g.aaplimg.com^$client=skynet,important
 @@||googlevideo.com^$client=skynet,important
