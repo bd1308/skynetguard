@@ -18,6 +18,7 @@
 @@||adtilt.com^$client=skynet,important
 @@||akamai.net^$client=skynet,important
 @@||eaassets-a.akamaihd.net^$client=skynet,important
+@@||origin-a.akamaihd.net^$client=skynet,important
 @@||akamaized.net^$client=skynet,important
 ||altervista.org^$client=skynet,important
 @@||amazon-adsystem.com^$client=skynet,important
@@ -176,6 +177,7 @@
 ||tiktok.com^$client=skynet,important
 ||tiktokcdn.com^$client=skynet,important
 ||tiktokv.com^$client=skynet,important
+@@||rtm.tnt-ea.com^$client=skynet,important
 @@||twimg.com^$client=skynet,important
 @@||typekit.net^$client=skynet,important
 @@||uca.cloud.unity3d.com^$client=skynet,important
