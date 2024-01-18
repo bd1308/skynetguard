@@ -16,6 +16,7 @@
 @@||ads.vungle.com^$client=skynet,important
 @@||adtilt.com^$client=skynet,important
 @@||akamai.net^$client=skynet,important
+@@||eaassets-a.akamaihd.net^$client=skynet,important
 @@||akamaized.net^$client=skynet,important
 ||altervista.org^$client=skynet,important
 @@||amazon-adsystem.com^$client=skynet,important
