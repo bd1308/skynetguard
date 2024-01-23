@@ -135,6 +135,7 @@
 @@||madbox.io^$client=skynet,important
 @@||map.fastly.net^$client=skynet,important
 @@||mobileapi.usebutton.com^$client=skynet,important
+@@||mojang.com^$client=skynet,important
 @@||msg.t-mobile.com^$client=skynet,important
 @@||mtgglobals.com^$client=skynet,important
 @@||mzstatic.com^$client=skynet,important
