@@ -37,6 +37,7 @@
 @@||apple.com.edgekey.net^$client=skynet,important
 @@||apple.com.v.aaplimg.com^$client=skynet,important
 @@||apple.map.fastly.net^$client=skynet,important
+@@||cdn-apple.com^$client=skynet,important
 @@||apple.news^$client=skynet,important
 @@||applovin.com^$client=skynet,important
 @@||applvn.com^$client=skynet,important
