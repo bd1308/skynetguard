@@ -1,3 +1,7 @@
+#Microsoft stuff
+@@||azureedge.net^$client=skynet,important
+@@||l-msedge.net^$client=skynet,important
+@@||msauth.net^$client=skynet,important
 @@||1password.com^$client=skynet,important
 ||amazon.com^$client=skynet,important
 ||perezhilton.com^$client=skynet,important
