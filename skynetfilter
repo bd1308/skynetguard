@@ -220,5 +220,24 @@
 @@||minecraftservices.com^$client=skynet,important
 @@||microsoftonline.com^$client=skynet,important
 @@||ampznetwork.com^$client=skynet,important
+@@||reactornet.net^$client=skynet,important
+@@||minecraft.net^$client=skynet,important
+@@||minecraftforge.com^$client=skynet,important
+@@||xboxlive.com^$client=skynet,important
+@@||minecraftforge.net^$client=skynet,important
+@@||gravitar.com^$client=skynet,important
+@@||minecraftservices.com^$client=skynet,important
+@@||microsoftonline.com^$client=skynet,important
+@@||ampznetwork.com^$client=skynet,important
+@@||socialpointgames.com^$client=skynet,important
+@@||peachybbies.com^$client=skynet,important
+@@||nflxvideo.net^$client=skynet,important
+@@||nflxso.net^$client=skynet,important
+@@||cdn.makebedtimeadream.com^$client=skynet,important
+@@||api.iterable.com^$client=skynet,important
+@@||account-api.playpiknik.com^$client=skynet,important
+@@||vs-api.voodoo-tech.io^$client=skynet,important
+@@||api.mixpanel.com^$client=skynet,important
+@@||wan8mg3l51tsc8tvwm1w5ibakp7ndzal.ui.nabu.casa^$client=skynet,important
 # Try block all other than this
 ||*.*^$client=skynet
