@@ -238,6 +238,7 @@
 @@||account-api.playpiknik.com^$client=skynet,important
 @@||vs-api.voodoo-tech.io^$client=skynet,important
 @@||api.mixpanel.com^$client=skynet,important
-@@||wan8mg3l51tsc8tvwm1w5ibakp7ndzal.ui.nabu.casa^$client=skynet,important
+@@||ui.nabu.casa^$client=skynet,important
+@@||thesims.com^$client=skynet,important
 # Try block all other than this
 ||*.*^$client=skynet
