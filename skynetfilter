@@ -240,5 +240,6 @@
 @@||api.mixpanel.com^$client=skynet,important
 @@||ui.nabu.casa^$client=skynet,important
 @@||thesims.com^$client=skynet,important
+@@||consent.trustarc.com^$client=skynet,important
 # Try block all other than this
 ||*.*^$client=skynet
