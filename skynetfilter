@@ -212,6 +212,10 @@
 @@||akadns.net^$client=skynet,important
 @@||reactornet.net^$client=skynet,important
 @@||home.reactornet.net^$client=skynet,important
+# minecraft / xbox / microsoft zone
+@@||msftauth.net^$client=skynet,important
+@@||microsoft.com^$client=skynet,important
+@@||t-msedge.net^$client=skynet,important
 @@||minecraft.net^$client=skynet,important
 @@||minecraftforge.com^$client=skynet,important
 @@||xboxlive.com^$client=skynet,important
