@@ -110,6 +110,13 @@
 @@||global.ssl.fastly.net^$client=skynet,important
 @@||gmail.com^$client=skynet,important
 @@||google-analytics.com^$client=skynet,important
+@@||www.youtube.com^$dnsrewrite=NOERROR;CNAME;restrict.youtube.com,client=skynet,important
+@@||m.youtube.com^$dnsrewrite=NOERROR;CNAME;restrict.youtube.com,client=skynet,important
+@@||youtubei.googleapis.com^$dnsrewrite=NOERROR;CNAME;restrict.youtube.com,client=skynet,important
+@@||youtube.googleapis.com^$dnsrewrite=NOERROR;CNAME;restrict.youtube.com,client=skynet,important
+@@||www.youtube-nocookie.com^$dnsrewrite=NOERROR;CNAME;restrict.youtube.com,client=skynet,important
+@@||www.google.com^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com,client=skynet,important
+@@||google.com^$dnswrite=NOERROR;CNAME;forcesafesearch.google.com,client=skynet,important
 @@||googleadservices.com^$client=skynet,important
 @@||googleapis.com^$client=skynet,important
 @@||googletagmanager.com^$client=skynet,important
