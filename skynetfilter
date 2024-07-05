@@ -251,5 +251,8 @@
 @@||ui.nabu.casa^$client=skynet,important
 @@||thesims.com^$client=skynet,important
 @@||consent.trustarc.com^$client=skynet,important
+@@||tr.rbxcdn.com.edgesuite.net^$client=skynet,important
+@@||sdk.fra-01.braze.eu^$client=skynet,important
+@@||joytunes.com^$client=skynet,important
 # Try block all other than this
 ||*.*^$client=skynet
