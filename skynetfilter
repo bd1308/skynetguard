@@ -11,8 +11,6 @@
 ||tiktokv.com^$client=skynet,important
 ||toktokcdn.com^$client=skynet,important
 @@||in-addr.arpa^$client=skynet,important
-# no Apple DNS
-||apple-dns.net^$client=skynet,important
 # Akami CDN
 @@||akamai.net^$client=skynet,important
 @@||akamaiedge.net^$client=skynet,important
