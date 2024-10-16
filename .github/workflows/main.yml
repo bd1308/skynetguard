@@ -12,6 +12,7 @@ jobs:
     - name: Init new repo in dist folder and commit generated files
       run: |
         python renderer.py
+        mkdir docs
         cd docs/
         cp ../tmp_skynetallow skynetallow
         git init
