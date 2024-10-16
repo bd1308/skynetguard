@@ -8,7 +8,7 @@ def sort_domains(s):
 domains_sorted = sorted(domains, key=sort_domains)
 print(domains_sorted)
 
-output = open('docs/tmp/skynetallow', 'w+')
+output = open('tmp_skynetallow', 'w+')
 for line in domains_sorted:
     output.write(f"@@||{line.strip()}^$client=skynet,important\n")
 
