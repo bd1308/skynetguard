@@ -8,6 +8,8 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      id-token: write
 
     steps:
     - uses: actions/checkout@v2
@@ -28,6 +30,6 @@ jobs:
         path: '.'
     - name: Deploy to GitHub Pages
       id: deployment
-      uses: actions/deploy-pages@v4
+
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
