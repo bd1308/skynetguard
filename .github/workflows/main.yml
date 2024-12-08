@@ -22,6 +22,7 @@ jobs:
         mkdir docs
         cd docs/
         cp ../tmp_skynetallow skynetallow
+        cp ../tmp_skynetallow skynetallow.txt
 
     - name: Setup Pages
       uses: actions/configure-pages@v5
