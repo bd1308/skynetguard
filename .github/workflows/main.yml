@@ -1,15 +1,16 @@
 name: Deploy to GitHub pages
+  
 on:
   push:
     branches: [ main ]
 jobs:
   build:
+    permissions:
+      id-token: write
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    permissions:
-      id-token: write
 
     steps:
     - uses: actions/checkout@v2
