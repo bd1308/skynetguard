@@ -6,7 +6,8 @@ on:
 jobs:
   build:
     permissions:
-      id-token: write
+      pages: write      # to deploy to Pages
+      id-token: write   # to verify the deployment originates from an appropriate source
     runs-on: ubuntu-latest
     environment:
       name: github-pages
@@ -30,7 +31,7 @@ jobs:
         # Upload entire repository
         path: '.'
     - name: Deploy to GitHub Pages
+      uses: actions/deploy-pages@v4
       id: deployment
-
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
