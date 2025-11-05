@@ -26,12 +26,11 @@ api.mixpanel.com
 app.goo.gl
 apple-cloudkit.com
 apple.com
-safebrowsing.apple
-apple-dns.net
 apple.com.akadns.net
 apple.com.edgekey.net
 apple.com.edgesuite.net
 apple.com.v.aaplimg.com
+apple-dns.net
 apple.map.fastly.net
 apple-mapkit.com
 apple.news
@@ -40,6 +39,8 @@ applvn.com
 appsflyer.com
 appsflyersdk.com
 arkoselabs.com
+assetsconfigcdn.org
+awsglobalaccelerator.com
 azureedge.net
 azureedge-t-prod.trafficmanager.net
 bamgrid.com
@@ -70,8 +71,8 @@ cdx.cedexis.net
 chasecdn.com
 chase.com
 clients4.google.com
-cloudflare.net
 cloudflare.com
+cloudflare.net
 cloudfront.net
 cloud.unity3d.com
 cm.publishers.advertising.a2z.com
@@ -218,6 +219,7 @@ roblox.com
 roblox.com.edgekey.net
 robloxlabs.com
 rtm.tnt-ea.com
+safebrowsing.apple
 scdn.co
 scorecardresearch.com
 scribblebear.casa
@@ -234,9 +236,9 @@ spotifycdn.com
 spotify.com
 st001015pinterest-apm.instabug.com
 statsigapi.net
-steamserver.net
-steampowered.com
 steamcommunity.com
+steampowered.com
+steamserver.net
 steamstatic.com
 supersonicads.com
 tailscale.net
